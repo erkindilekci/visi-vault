@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:8080/contacts';
+const API_URL = 'https://visi-vault-api.onrender.com/contacts';
 
 export const saveContact = async (contact) =>
     await axios.post(API_URL, contact);
