@@ -4,6 +4,9 @@
 This project is a web application that helps people manage their contacts. The backend is built with Java and Postgres, while the frontend is developed using React and JavaScript.
 
 ## Screenshot
+![313451412-a023d97d-0930-45fd-9df3-29cb247139c7](https://github.com/user-attachments/assets/0df3e679-cd63-4e11-adbd-13696e8b587d)
+![313451417-f126018f-c9eb-4a6f-a4d5-dc17bfcf788c](https://github.com/user-attachments/assets/fe38171f-2391-473c-a734-b877172b0122)
+![313451415-e1d389ca-4dde-46ca-8bd2-b4a1b0452fd2](https://github.com/user-attachments/assets/cee8925a-693f-4d8b-bd08-b1628e8a7c44)
 
 ## Technologies
 
